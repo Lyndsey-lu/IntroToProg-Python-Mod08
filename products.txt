@@ -1,0 +1,11 @@
+junkfood,$4
+fishfood,$7
+dogfood,$50
+pumpkin,$7
+candy,$8
+firewood,$6.99
+marshmallow,$5
+chocolatebars,$6
+grahamcracker,$4
+carrotjuice,$8
+tortillas,$1.99

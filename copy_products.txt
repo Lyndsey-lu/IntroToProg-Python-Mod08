@@ -1,0 +1,8 @@
+junkfood, $4
+fish food, $7
+dog food, $50
+pumpkin, $7
+candy, $8
+firewood, $6.99
+marshmallow, $5
+chocolate bars, $6
